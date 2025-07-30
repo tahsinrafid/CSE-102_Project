@@ -1,0 +1,13 @@
+obj/*.o
+*.layout
+*.depend
+.vscode
+bin/
+OpenGL/
+examples/
+demo/
+MINGW/
+saves/
+*.pdf
+*.bin
+bin/*.exe
